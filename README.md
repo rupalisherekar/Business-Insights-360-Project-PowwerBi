@@ -1,4 +1,4 @@
-# AtliQ Hospitality Analysis - PowerBI
+# Business Insihts 360 - PowerBI|Sql|Excel
 
 
 ## Problem Statement
