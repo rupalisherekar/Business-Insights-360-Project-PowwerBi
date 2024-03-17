@@ -11,7 +11,7 @@ I have created Power BI dashboard that's I called Business Insights 360 to fulfi
 - ◼ Supply cCain View
 - ◼ Executive View
 
-[View my Interactive Dashboard](https://lnkd.in/dGf6J-v2)
+[View my Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Q2MGVhYzMtNWRkNy00ZDEwLWE0ZTMtYWM2ZGE5ZGUwMWE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀
 - ➡ SQL
